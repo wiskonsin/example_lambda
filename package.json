@@ -1,0 +1,25 @@
+{
+  "name": "example_lambda",
+  "version": "1.0.0",
+  "description": "Función Lambda que recoge datos aleatorios mediante peticiones API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiskonsin/example_lambda.git"
+  },
+  "keywords": [
+    "lambda"
+  ],
+  "author": "Luis Riancho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiskonsin/example_lambda/issues"
+  },
+  "homepage": "https://github.com/wiskonsin/example_lambda#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
