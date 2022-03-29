@@ -1,3 +1,4 @@
+Práctica 1
 1. Clonar repositorio
 2. Crear función Lambda desde 0 en AWS, utilizando NodeJS 14.x
 3. Ejecutamos npm ci para compilar el proyecto con las versiones definidas en el package-lock.json
